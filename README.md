@@ -3,10 +3,10 @@
 
 ## Working with Block development
 
-Server-Side Rendering
-Authentication
-SQL
-Custom Post Types
-Nested blocks
-Querying Posts
-Custom Admin Pages
+### Server-Side Rendering
+### Authentication
+### SQL
+### Custom Post Types
+### Nested blocks
+### Querying Posts
+### Custom Admin Pages
